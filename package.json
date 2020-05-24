@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Kaptian Core",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaptianCore/portfolio.git"
+  },
+  "author": "Kaptian Core",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaptianCore/portfolio/issues"
+  },
+  "homepage": "https://kaptiancore.github.io/portfolio/"
+}
